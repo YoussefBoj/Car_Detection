@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+opencv-python
+torch
+torchvision
+tensorflow
+pillow
+numpy
+ultralytics
+roboflow
+transformers
+accelerate
