@@ -87,7 +87,7 @@ saved_model/
 
 # Jupyter Notebook
 .ipynb_checkpoints
-*.ipynb
+
 
 # IDEs
 .vscode/
